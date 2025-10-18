@@ -21,6 +21,13 @@
   By integrating predictive insights with optimisation, prescriptive analytics empowers decision-makers to move from “What will happen?” to “What should we do about it?”, enabling data-driven strategies that maximise value and efficiency.
 </p>
 
+<p align="center">
+  <strong>Why is the data below prescriptive?</strong><br>
+  Descriptive analytics summarises what happened; predictive analytics estimates what will happen; prescriptive analytics recommends what to do. 
+  The <code>.py</code> script I created optimises a decision (<em>staffing levels</em>) subject to goals (<em>minimise cost</em>) and constraints (<em>enough capacity to serve guests</em>). 
+  The output is a concrete actionable plan — numbers of staff per shift — rather than just summaries or predictions.
+</p>
+
 ---
 
 <h2 align="center">📈 Prescriptive Analytics Python Visualisations</h2>
