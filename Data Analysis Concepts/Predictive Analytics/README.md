@@ -19,7 +19,7 @@
 
 <p align="center">
   Python libraries such as <code>scikit-learn</code>, <code>matplotlib</code>, and <code>seaborn</code> are used to build, visualise, 
-  and interpret the results of the predictive model. These visualisations collectively illustrate each step of the workflow — 
+  and interpret the results of the predictive model. These visualisations collectively illustrate each step of the workflow 
   from understanding data balance and correlations, to assessing performance metrics through confusion matrices and ROC curves. 
   The combination of robust algorithms and visualisation techniques provides both interpretability and accuracy, making predictive 
   analytics an essential component in modern data science.
