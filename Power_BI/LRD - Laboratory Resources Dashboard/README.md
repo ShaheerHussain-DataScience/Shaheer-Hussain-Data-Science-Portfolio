@@ -33,3 +33,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShaheerHussain-DataScience/Shaheer-Hussain-Data-Science-Portfolio/main/Power_BI/LRD%20-%20Laboratory%20Resources%20Dashboard/OR.png" alt="Laboratory Resources Dashboard - Orders Overview" width="800">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShaheerHussain-DataScience/Shaheer-Hussain-Data-Science-Portfolio/main/Power_BI/LRD%20-%20Laboratory%20Resources%20Dashboard/EQT.png" alt="Laboratory Resources Dashboard - Equipment Trends" width="800">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShaheerHussain-DataScience/Shaheer-Hussain-Data-Science-Portfolio/main/Power_BI/LRD%20-%20Laboratory%20Resources%20Dashboard/ORT.png" alt="Laboratory Resources Dashboard - Orders Trends" width="800">
+</p>
