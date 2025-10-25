@@ -22,19 +22,19 @@
 <h2 align="center">📊 Dashboard Previews</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShaheerHussain-DataScience/Shaheer-Hussain-Data-Science-Portfolio/main/Power_BI/SafeMeds_AI%20ML%20Performance%20Dashboard/SAFMEDSAIOVER.png" alt="SafeMeds AI - Model Overview Dashboard" width="800">
+  <img src="./SAFMEDSAIOVER.png" alt="SafeMeds AI - Model Overview Dashboard" width="800">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShaheerHussain-DataScience/Shaheer-Hussain-Data-Science-Portfolio/main/Power_BI/SafeMeds_AI%20ML%20Performance%20Dashboard/SAFMEDSAILR.png" alt="SafeMeds AI - Logistic Regression Performance" width="800">
+  <img src="./SAFMEDSAILR.png" alt="SafeMeds AI - Logistic Regression Performance" width="800">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShaheerHussain-DataScience/Shaheer-Hussain-Data-Science-Portfolio/main/Power_BI/SafeMeds_AI%20ML%20Performance%20Dashboard/SAFMEDSAIRF.png" alt="SafeMeds AI - Random Forest Performance" width="800">
+  <img src="./SAFMEDSAIRF.png" alt="SafeMeds AI - Random Forest Performance" width="800">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShaheerHussain-DataScience/Shaheer-Hussain-Data-Science-Portfolio/main/Power_BI/SafeMeds_AI%20ML%20Performance%20Dashboard/SAFMEDSAIXGBOOST.png" alt="SafeMeds AI - XGBoost Performance" width="800">
+  <img src="./SAFMEDSAIXGBOOST.png" alt="SafeMeds AI - XGBoost Performance" width="800">
 </p>
 
 ---
