@@ -22,19 +22,19 @@
 <h2 align="center">📊 Dashboard Previews</h2>
 
 <p align="center">
-  <img src="./SAFMEDSAIOVER.png" alt="SafeMeds AI - Model Overview Dashboard" width="800">
+  <img src="https://raw.githubusercontent.com/ShaheerHussain-DataScience/Shaheer-Hussain-Data-Science-Portfolio/main/Power_BI/SafeMeds_AI%20ML%20Performance%20Dashboard/SAFEMEDSAIOVER.png" alt="SafeMeds AI - Model Overview Dashboard" width="800">
 </p>
 
 <p align="center">
-  <img src="./SAFMEDSAILR.png" alt="SafeMeds AI - Logistic Regression Performance" width="800">
+  <img src="https://raw.githubusercontent.com/ShaheerHussain-DataScience/Shaheer-Hussain-Data-Science-Portfolio/main/Power_BI/SafeMeds_AI%20ML%20Performance%20Dashboard/SAFEMEDSAILR.png" alt="SafeMeds AI - Logistic Regression Performance" width="800">
 </p>
 
 <p align="center">
-  <img src="./SAFMEDSAIRF.png" alt="SafeMeds AI - Random Forest Performance" width="800">
+  <img src="https://raw.githubusercontent.com/ShaheerHussain-DataScience/Shaheer-Hussain-Data-Science-Portfolio/main/Power_BI/SafeMeds_AI%20ML%20Performance%20Dashboard/SAFEMEDSAIRF.png" alt="SafeMeds AI - Random Forest Performance" width="800">
 </p>
 
 <p align="center">
-  <img src="./SAFMEDSAIXGBOOST.png" alt="SafeMeds AI - XGBoost Performance" width="800">
+  <img src="https://raw.githubusercontent.com/ShaheerHussain-DataScience/Shaheer-Hussain-Data-Science-Portfolio/main/Power_BI/SafeMeds_AI%20ML%20Performance%20Dashboard/SAFEMEDSAIXGBOOST.png" alt="SafeMeds AI - XGBoost Performance" width="800">
 </p>
 
 ---
@@ -48,3 +48,4 @@
   <li><strong>Paracetamol ADR dataset</strong> used to enhance understanding of adverse event triage and medical risk prediction.</li>
   <li><strong>End-to-end ML workflow integration</strong> — from Python model training to Power BI dashboard presentation.</li>
 </ul>
+
